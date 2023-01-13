@@ -2,9 +2,9 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A collection of projects I worked on. 
+description: A collection of projects I worked on.
 nav: true
-display_categories: [machine learning, art, research, fun]
+display_categories: [data science, research, fun]
 horizontal: false
 ---
 <div class="projects">
