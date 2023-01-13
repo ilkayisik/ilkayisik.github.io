@@ -1,9 +1,9 @@
 ---
 layout: page
-title: fMRIflows logo
-description: How the creation of the fMRIflows logo came to be.
-img: assets/img/art_logo_fmriflows.gif
-redirect: /blog/2019/fmriflows_logo/
+title: Quantifying the dynamics of Aesthetic Experience
+description: Code used in the paper "Continuous ratings of movie watching reveal idiosyncratic dynamics of aesthetic enjoyment"
+img: assets/img/research_ph_image.png
+redirect: https://github.com/ilkayisik/aest_dynamics_code
 importance: 2
 category: research
 ---
