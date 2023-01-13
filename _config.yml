@@ -3,18 +3,18 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Michael
-middle_name: P.
-last_name: Notter
-email: michaelnotter@hotmail.com
+first_name: Ilkay
+middle_name:
+last_name: Isik
+email: ilkayisik@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal homepage of Michael P. Notter.
+  Personal homepage of Ilkay Isik.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 👨‍💻 # the emoji used as the favicon
-url: https://miykael.github.io # the base hostname & protocol for your site
+url: https://ilkayisik.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -48,13 +48,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: miykael # your GitHub user name
+github_username: ilkayisik # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: miyka_el # your Twitter handle
-linkedin_username: michael-notter-5542b464 # your LinkedIn user name
-scholar_userid: cXB2flkAAAAJ # your Google Scholar ID
+twitter_username: isik_ilkay # your Twitter handle
+linkedin_username: ilkay-isik # your LinkedIn user name
+scholar_userid: # your Google Scholar ID
 orcid_id: #0000-0002-5866-047X # your ORCID ID
-medium_username: michael.notter # your Medium username
+medium_username: #michael.notter # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
@@ -68,7 +68,7 @@ stackoverflow_id: #your stackoverflow id
 contact_note: >
   The easiest way to reach me is via e-mail, LinkedIn or Twitter. The fastest way is with chocolate 🍫.
 
-google_analytics: UA-126030922-1 # out your google-analytics code
+google_analytics: # UA-126030922-1 # out your google-analytics code
 panelbear_analytics: #XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
@@ -167,7 +167,7 @@ github: [metadata]
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them). 
+  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
   layouts:
     year: archive-year
     tag: archive-tag
