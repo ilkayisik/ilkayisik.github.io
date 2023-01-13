@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Watch how AI learns to classify images
+title:  Work in Progress
 date:   2021-12-27 12:00:00
-description: Looking under the hood of machine learning routines while they learn about things.
+description: Lorem Ipsum
 ---
 
-## Looking under the hood of machine learning routines while they learn about things.
+## Lorem Ipsum
 
 *[Find the Jupyter Notebook to this article [here](https://github.com/miykael/miykael.github.io/blob/master/assets/nb/01_ai_classifier_under_hood/nb_ai_classification_under_the_hood.ipynb).]*
 
