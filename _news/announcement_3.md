@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-07-01
+date: 2020-12-16
 inline: true
 ---
 
-👨🏻‍🎓 Successfully defended my PhD thesis with summa cum laude!
+👨🏻‍🎓 Successfully defended my PhD thesis with magna cum laude!
