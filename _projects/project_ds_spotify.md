@@ -5,5 +5,5 @@ description: A neuroimaging toolbox for generating coordinate tables and region 
 img: assets/img/research_atlasreader.png
 redirect: http://github.com/miykael/atlasreader
 importance: 3
-category: research
+category: data science
 ---
