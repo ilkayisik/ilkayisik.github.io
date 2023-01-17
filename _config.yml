@@ -13,7 +13,7 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 👨‍💻 # the emoji used as the favicon
+icon: 👩‍💻 # the emoji used as the favicon
 url: https://ilkayisik.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
@@ -74,8 +74,8 @@ panelbear_analytics: #XXXXXXXXX # panelbear analytics site ID
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-
-blog_name: Ilkay's blog  # your blog must have a name for it to show up in the nav bar
+# turn blog_name or off to activate or deactivate the blog
+# blog_name: Ilkay's blog  # your blog must have a name for it to show up in the nav bar
 blog_description: WIP
 permalink: /blog/:year/:title/
 
@@ -104,7 +104,7 @@ collections:
     output: true
     permalink: /background/:path/
 
-news_limit: 5
+news_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
