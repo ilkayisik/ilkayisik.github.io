@@ -16,9 +16,9 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Neuroscience, psychology and aesthetics – a unique background for a data scientist who can bring a different perspective to the table.
+Psychology, neuroscience and aesthetics – a unique background for a data scientist who can bring a different perspective to the table.
 
-As a former researcher in the field of empirical aesthetics, I have experience in statistical modelling, machine learning, and data visualisation as well as presenting and communicating results effectively in a visually appealing way.
+As a former researcher in the field of empirical aesthetics, I have experience in data analysis, statistical modelling, machine learning, and data visualisation as well as presenting and communicating results effectively in a visually appealing way.
 
 Currently, I am looking for a new challenge that enables me to combine my passions and my work; preferably in an international team.
 
