@@ -16,7 +16,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Data, psychology and aesthetics – a unique background for a data scientist who can bring a different perpective to the table.
+Neuroscience, psychology and aesthetics – a unique background for a data scientist who can bring a different perspective to the table.
 
 As a former researcher in the field of empirical aesthetics, I have experience in statistical modelling, machine learning, and data visualisation as well as presenting and communicating results effectively in a visually appealing way.
 
