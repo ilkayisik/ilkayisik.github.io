@@ -76,7 +76,7 @@ panelbear_analytics: #XXXXXXXXX # panelbear analytics site ID
 # -----------------------------------------------------------------------------
 # turn blog_name or off to activate or deactivate the blog
 # blog_name: Ilkay's blog  # your blog must have a name for it to show up in the nav bar
-blog_description: WIP
+# blog_description: WIP
 permalink: /blog/:year/:title/
 
 # Pagination
