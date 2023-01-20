@@ -16,12 +16,15 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Psychology, neuroscience and aesthetics – a unique background for a data scientist who can bring a different perspective to the table.
+I am data scientist with an advanced academic background in neuroscience, psychology and aesthetics.
 
-As a former researcher in the field of empirical aesthetics, I have experience in data analysis, statistical modelling, machine learning, and data visualisation as well as presenting and communicating results effectively in a visually appealing way.
+As a researcher at the Max Planck Institute for Empirical Aesthetics, I have studied the psychological and neural basis of aesthetic experiences such as when a person is aesthetically “moved” by visual art or natural landscapes.
 
-Currently, I am looking for a new challenge that enables me to combine my passions and my work; preferably in an international team.
+In my research, I used behavioural and brain imaging (fMRI) techniques as well as computational tools (e.g. Machine Learning, Deep Learning) and gained extensive experience in quantitative data analysis and statistical modelling.
 
+I am an effective communicator and passionate about presenting and communicating results effectively in a visually appealing way.
+
+With up-to-date knowledge acquired during a recently-finished program on data science and data analytics, I'm well-equipped to solve challenging problems in the business and/ or research domain.
 
 To learn more about me, take a look at my <a href="/assets/pdf/CV_Isik.pdf">curriculum vitae</a>, <a href="/publications">publications</a> or <a href="/projects">projects</a>
 
