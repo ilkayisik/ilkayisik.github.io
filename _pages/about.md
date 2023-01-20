@@ -16,7 +16,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am data scientist with an advanced academic background in neuroscience, psychology and aesthetics.
+I am a data scientist with an advanced academic background in neuroscience, psychology and aesthetics.
 
 As a researcher at the Max Planck Institute for Empirical Aesthetics, I have studied the psychological and neural basis of aesthetic experiences such as when a person is aesthetically “moved” by visual art or natural landscapes.
 
