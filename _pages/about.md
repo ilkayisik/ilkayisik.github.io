@@ -22,7 +22,7 @@ As a researcher at the Max Planck Institute for Empirical Aesthetics, I have stu
 
 In my research, I used behavioural and brain imaging (fMRI) techniques as well as computational tools (e.g. Machine Learning, Deep Learning) and gained extensive experience in quantitative data analysis and statistical modelling.
 
-I am an effective communicator and passionate about presenting and communicating results effectively in a visually appealing way.
+I am an effective communicator and passionate about presenting and communicating results in a visually appealing way.
 
 With up-to-date knowledge acquired during a recently-finished program on data science and data analytics, I'm well-equipped to solve challenging problems in the business and/ or research domain.
 
