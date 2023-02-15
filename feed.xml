@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://ilkayisik.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ilkayisik.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-02-15T14:00:50+00:00</updated><id>https://ilkayisik.github.io/feed.xml</id><title type="html">blank</title><subtitle>Personal homepage of Ilkay Isik.
+</subtitle><entry><title type="html">Work in Progress</title><link href="https://ilkayisik.github.io/blog/2023/blog_post_02/" rel="alternate" type="text/html" title="Work in Progress" /><published>2023-01-16T12:56:00+00:00</published><updated>2023-01-16T12:56:00+00:00</updated><id>https://ilkayisik.github.io/blog/2023/blog_post_02</id><content type="html" xml:base="https://ilkayisik.github.io/blog/2023/blog_post_02/"><![CDATA[<h2 id="lorem-ipsum">Lorem Ipsum</h2>
+
+<p><em>[Find the Jupyter Notebook to this article <a href="https://github.com/ilkayisik/python-dataengineering-pipeline/blob/main/version_01/gans_main_script.ipynb">here</a>.]</em></p>
+
+<hr />
+<p>Lorem ipsum</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Lorem Ipsum]]></summary></entry><entry><title type="html">Work in Progress</title><link href="https://ilkayisik.github.io/blog/2021/blog_post_01/" rel="alternate" type="text/html" title="Work in Progress" /><published>2021-12-27T12:00:00+00:00</published><updated>2021-12-27T12:00:00+00:00</updated><id>https://ilkayisik.github.io/blog/2021/blog_post_01</id><content type="html" xml:base="https://ilkayisik.github.io/blog/2021/blog_post_01/"><![CDATA[<h2 id="lorem-ipsum">Lorem Ipsum</h2>
+
+<p><em>[Find the Jupyter Notebook to this article <a href="https://github.com/ilkayisik/python-dataengineering-pipeline/blob/main/version_01/gans_main_script.ipynb">here</a>.]</em></p>
+
+<hr />
+
+<p>Lorem ipsum</p>
+
+<h2 id="the-data-set">The data set</h2>
+
+<p>First things first, we need our data set.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="n">numpy</span> <span class="k">as</span> <span class="n">np</span>
+<span class="c1"># Load and prepare dataset
+</span>
+</code></pre></div></div>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="n">matplotlib.pyplot</span> <span class="k">as</span> <span class="n">plt</span>
+
+</code></pre></div></div>]]></content><author><name></name></author><summary type="html"><![CDATA[Lorem Ipsum]]></summary></entry></feed>

@@ -1,9 +1,0 @@
----
-layout: page
-title: WBS-Flix
-description: Create a recommender system that give users of WBSFLIX relevant content to watch
-img: assets/img/pr_ds_wbsflix_logo.png
-redirect: https://github.com/ilkayisik/WBSFlix-Recommender-System
-importance: 1
-category: Data Science
----
